@@ -1,0 +1,16 @@
+{
+  "websites": {
+    "youtube": "https://www.youtube.com",
+    "google": "https://www.google.com",
+    "gmail": "https://mail.google.com",
+    "github": "https://github.com",
+    "docs": "https://docs.google.com"
+  },
+  "routines": {
+    "study": [
+      "docs",
+      "google"
+    ]
+  },
+  "apps": {}
+}
